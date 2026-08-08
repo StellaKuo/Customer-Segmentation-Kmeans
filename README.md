@@ -1,5 +1,7 @@
 # 🛍️ Customer Segmentation using K-Means
 
+**Unsupervised Learning Project**
+
 ## 📌 Project Overview
 
 本專案使用 **K-Means Clustering** 進行消費者分群，並透過 **Elbow Method** 選擇適合的群集數量，分析不同客群的消費特徵。
